@@ -1,0 +1,7 @@
+C:\Users\44581098807\Desktop\C#\SomaInt\SomaInt\obj\Debug\SomaInt.csproj.AssemblyReference.cache
+C:\Users\44581098807\Desktop\C#\SomaInt\SomaInt\obj\Debug\SomaInt.csproj.CoreCompileInputs.cache
+C:\Users\44581098807\Desktop\C#\SomaInt\SomaInt\bin\Debug\SomaInt.exe.config
+C:\Users\44581098807\Desktop\C#\SomaInt\SomaInt\bin\Debug\SomaInt.exe
+C:\Users\44581098807\Desktop\C#\SomaInt\SomaInt\bin\Debug\SomaInt.pdb
+C:\Users\44581098807\Desktop\C#\SomaInt\SomaInt\obj\Debug\SomaInt.exe
+C:\Users\44581098807\Desktop\C#\SomaInt\SomaInt\obj\Debug\SomaInt.pdb

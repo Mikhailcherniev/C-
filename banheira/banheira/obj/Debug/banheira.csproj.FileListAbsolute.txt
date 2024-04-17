@@ -1,0 +1,7 @@
+C:\Users\44581098807\Desktop\C#\banheira\banheira\obj\Debug\banheira.csproj.AssemblyReference.cache
+C:\Users\44581098807\Desktop\C#\banheira\banheira\obj\Debug\banheira.csproj.CoreCompileInputs.cache
+C:\Users\44581098807\Desktop\C#\banheira\banheira\bin\Debug\banheira.exe.config
+C:\Users\44581098807\Desktop\C#\banheira\banheira\bin\Debug\banheira.exe
+C:\Users\44581098807\Desktop\C#\banheira\banheira\bin\Debug\banheira.pdb
+C:\Users\44581098807\Desktop\C#\banheira\banheira\obj\Debug\banheira.exe
+C:\Users\44581098807\Desktop\C#\banheira\banheira\obj\Debug\banheira.pdb

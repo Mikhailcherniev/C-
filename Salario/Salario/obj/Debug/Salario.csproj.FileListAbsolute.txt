@@ -1,0 +1,7 @@
+C:\Users\44581098807\Desktop\C#\Salario\Salario\obj\Debug\Salario.csproj.AssemblyReference.cache
+C:\Users\44581098807\Desktop\C#\Salario\Salario\obj\Debug\Salario.csproj.CoreCompileInputs.cache
+C:\Users\44581098807\Desktop\C#\Salario\Salario\bin\Debug\Salario.exe.config
+C:\Users\44581098807\Desktop\C#\Salario\Salario\bin\Debug\Salario.exe
+C:\Users\44581098807\Desktop\C#\Salario\Salario\bin\Debug\Salario.pdb
+C:\Users\44581098807\Desktop\C#\Salario\Salario\obj\Debug\Salario.exe
+C:\Users\44581098807\Desktop\C#\Salario\Salario\obj\Debug\Salario.pdb

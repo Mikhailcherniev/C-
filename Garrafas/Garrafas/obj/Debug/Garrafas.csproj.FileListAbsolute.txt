@@ -1,0 +1,7 @@
+C:\Users\44581098807\Desktop\C#\Garrafas\Garrafas\bin\Debug\Garrafas.exe.config
+C:\Users\44581098807\Desktop\C#\Garrafas\Garrafas\bin\Debug\Garrafas.exe
+C:\Users\44581098807\Desktop\C#\Garrafas\Garrafas\bin\Debug\Garrafas.pdb
+C:\Users\44581098807\Desktop\C#\Garrafas\Garrafas\obj\Debug\Garrafas.csproj.AssemblyReference.cache
+C:\Users\44581098807\Desktop\C#\Garrafas\Garrafas\obj\Debug\Garrafas.csproj.CoreCompileInputs.cache
+C:\Users\44581098807\Desktop\C#\Garrafas\Garrafas\obj\Debug\Garrafas.exe
+C:\Users\44581098807\Desktop\C#\Garrafas\Garrafas\obj\Debug\Garrafas.pdb

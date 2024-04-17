@@ -1,0 +1,7 @@
+C:\Users\44581098807\Desktop\C#\BomBom\BomBom\bin\Debug\BomBom.exe.config
+C:\Users\44581098807\Desktop\C#\BomBom\BomBom\bin\Debug\BomBom.exe
+C:\Users\44581098807\Desktop\C#\BomBom\BomBom\bin\Debug\BomBom.pdb
+C:\Users\44581098807\Desktop\C#\BomBom\BomBom\obj\Debug\BomBom.csproj.AssemblyReference.cache
+C:\Users\44581098807\Desktop\C#\BomBom\BomBom\obj\Debug\BomBom.csproj.CoreCompileInputs.cache
+C:\Users\44581098807\Desktop\C#\BomBom\BomBom\obj\Debug\BomBom.exe
+C:\Users\44581098807\Desktop\C#\BomBom\BomBom\obj\Debug\BomBom.pdb
